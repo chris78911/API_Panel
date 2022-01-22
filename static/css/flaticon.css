@@ -1,0 +1,91 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("https://www.17sucai.com/preview/2126253/2021-10-31/bootstraps%E5%93%8D%E5%BA%94%E5%BC%8F%E5%A4%9A%E7%94%A8%E9%80%94%E7%BD%91%E7%AB%99%E6%A8%A1%E6%9D%BF/bootstraps%E2%95%A7%E2%88%9E%E2%95%99%C2%AA%E2%95%A9%E2%95%9C%E2%95%A2%CE%B1%E2%95%99%E2%94%9C%E2%95%90%E2%95%9B%E2%95%90%C2%B0%E2%95%92%E2%95%9B%E2%94%80%C3%BA%E2%96%91%CF%83/fonts/flaticon%EF%B9%9647fc6aefccc57a13c37d6cb703e6a456.ttf") format("truetype");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-bar-chart:before {
+    content: "\f101";
+}
+.flaticon-24-hours:before {
+    content: "\f102";
+}
+.flaticon-search-magnifier-outline:before {
+    content: "\f103";
+}
+.flaticon-support:before {
+    content: "\f104";
+}
+.flaticon-online-service:before {
+    content: "\f105";
+}
+.flaticon-check:before {
+    content: "\f106";
+}
+.flaticon-done-tick:before {
+    content: "\f107";
+}
+.flaticon-left-quote:before {
+    content: "\f108";
+}
+.flaticon-left-arrow:before {
+    content: "\f109";
+}
+.flaticon-arrow:before {
+    content: "\f10a";
+}
+.flaticon-lamp:before {
+    content: "\f10b";
+}
+.flaticon-money-growth:before {
+    content: "\f10c";
+}
+.flaticon-idea:before {
+    content: "\f10d";
+}
+.flaticon-idea-1:before {
+    content: "\f10e";
+}
+.flaticon-tax-free:before {
+    content: "\f10f";
+}
+.flaticon-credit-card:before {
+    content: "\f110";
+}
+.flaticon-bank:before {
+    content: "\f111";
+}
+.flaticon-maintenance:before {
+    content: "\f112";
+}
+.flaticon-clutch-disc:before {
+    content: "\f113";
+}
+.flaticon-rocket:before {
+    content: "\f114";
+}
+.flaticon-copy:before {
+    content: "\f115";
+}
+.flaticon-send:before {
+    content: "\f116";
+}
+.flaticon-clockwise:before {
+    content: "\f117";
+}
+.flaticon-happy:before {
+    content: "\f118";
+}
+.flaticon-quotation-marks:before {
+    content: "\f119";
+}
